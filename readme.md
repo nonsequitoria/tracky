@@ -1,6 +1,6 @@
 # tracky
 
-Simple script to generate a time log to indicate when one ore more user interface elements appear in video screen captures at specific locations.
+Simple script that logs when certain user interface elements appear in a video screen recording.
 
 The script uses the [structural simularity index (ssi) as implemented in scikit-image](https://scikit-image.org/docs/0.12.x/auto_examples/transform/plot_ssim.html). 
 
